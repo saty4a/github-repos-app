@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273141509959",
+    "project_id": "simple-mobile-app-9214b",
+    "storage_bucket": "simple-mobile-app-9214b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273141509959:android:1279c8991af629d6912662",
+        "android_client_info": {
+          "package_name": "com.example.simple_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPW_C7WvRib2v9Ca42GpUshThetplRDko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
