@@ -1,4 +1,4 @@
-# simple_flutter_app
+# Github_repo_app
 
 A new Flutter project.
 
